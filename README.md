@@ -1,4 +1,4 @@
-#Jquery Deferred function Task
+## Jquery Deferred function Task
 You will need two functions:
 -	The 1st function is almost like a timer function which will defined a deferred object and return it.
 Use window.setinterval function.
